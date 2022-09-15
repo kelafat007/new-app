@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>Tesla-app</finalName>
+		<finalName>school-app</finalName>
 		
 		<plugins>
 			<plugin>
